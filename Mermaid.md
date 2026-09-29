@@ -213,14 +213,10 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A[Нажми меня]
-    click A callback "Подсказка"
-```
-
-```javascript
-var callback = function () {
-    alert('Callback сработал!');
-};
+    A[Обычный шаг] --> B((Кликни меня!))
+    
+    %% Делаем узел B ссылкой (Откроется в новой вкладке)
+    click B "https://js.org" "Перейти к документации" _blank
 ```
 
 ### Круговая диаграмма

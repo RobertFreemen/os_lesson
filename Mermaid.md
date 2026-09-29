@@ -26,7 +26,7 @@ flowchart LR
 - Диаграмма Ганта - 'gant'
 - Круговые - 'pie'
 - Состояние - 'stateDiagram'
-- ER-диаграммы
+- ER-диаграммы -'Entity-RelationshipDiagram'
 - Графы зависимостей
 
 #### Базовая структура 2

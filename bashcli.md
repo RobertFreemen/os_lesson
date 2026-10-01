@@ -328,8 +328,27 @@ mkdir folder{1..3}
 ```
 Удалить сразу несколько файлов
 ```shell
-
+rm {1..3}.txt
 ```
+Удалить сразу несколько папок
+```shell
+rm -rf folder{1..3}
+```
+Создать сложную структуру проекта
+```
+project/
+├── css/
+├── js/
+├── img/
+│   └── ico/
+├── fonts/
+└── pages/
+```
+Одной командой
+```shell
+mkdir -p projecr/{css,js,img/ico,fonts,pages}
+```
+
 ### Пасхалки
  
 Матрица

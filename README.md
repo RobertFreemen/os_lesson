@@ -2,6 +2,8 @@
 
 ## Навигация
 
+- [Сайт преподователя](https://gitflic.ru/project/rurewa/mfua)
+
 - [Основы редактирования текса](/Redactor.md)
 - [Markdown](/b.md)
 - [Mermaid](/Mermaid.md)

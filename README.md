@@ -8,3 +8,4 @@
 - [Markdown](/b.md)
 - [Mermaid](/Mermaid.md)
 - [Bash CLI](/bashcli.md)
+- [Bash Script](/BashScript.md)

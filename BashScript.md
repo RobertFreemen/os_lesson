@@ -111,3 +111,6 @@ touch "$project_name/js/script.js"
 
 echo "Структура проекта '$project_name' успешно создана!"
 ```
+
+![Logo](/img/sam4.png)
+![Logo](/img/sam4%20(2).png)

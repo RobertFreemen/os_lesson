@@ -27,3 +27,19 @@ echo "Как вас зовут?"
 read name
 echo "Привет, $name! Добро пожаловать в bash-скриптинг"
 ```
+#!/bin/bash - шибэнг, для ОС
+
+```bash
+# fineFile.sh
+#!/bin/bash
+ 
+read -p "Введите имя файла: " filename
+ 
+if [ -f "$filename" ]; then
+    echo "Файл '$filename' существует."
+else
+    echo "Файл '$filename' не найден (или это не обычный файл)."
+fi
+```
+
+![Logo](/img/1.png.png)

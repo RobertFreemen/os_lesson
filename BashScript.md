@@ -75,3 +75,39 @@ echo "Сумма чисел равна: $sum"
 ```
 
 ![Logo](/img/sam2.png)
+
+3. Проверка четности числа (Напишите скрипт, который определяет, является ли число четным или нечетным)
+
+```bash
+#!/bin/bash
+echo "Введите число для проверки:"
+read num
+
+# Проверяем остаток от деления на 2
+if [ $((num % 2)) -eq 0 ]; then
+    echo "Число $num — ЧЕТНОЕ."
+else
+    echo "Число $num — НЕЧЕТНОЕ."
+fi
+```
+
+![Logo](/img/sam3.png)
+
+4. Скрипт - создатель структуры проектов (создайте скрипт, который делает структуру папок для веб-проекта)
+
+```bash
+#!/bin/bash
+echo "Введите название для нового веб-проекта:"
+read project_name
+
+# Создаем папки
+mkdir -p "$project_name/css"
+mkdir -p "$project_name/js"
+
+# Создаем файлы внутри структуры
+touch "$project_name/index.html"
+touch "$project_name/css/style.css"
+touch "$project_name/js/script.js"
+
+echo "Структура проекта '$project_name' успешно создана!"
+```

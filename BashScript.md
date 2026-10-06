@@ -16,7 +16,7 @@ echo ``` : $USER"
 ```
 
 
-Файлы скрипта на Bash:
+Файлы скрипта на Bash: `script.sh`
 
 ```bash
 #!/bin/bash

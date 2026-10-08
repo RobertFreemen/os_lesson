@@ -1,6 +1,6 @@
 ## Git. Основы
  
-git.md
+`git.md`
  
 ![Linus](/img/Linus.png)
  
@@ -366,4 +366,3 @@ git merge anybranch
  ![Какой-то текст](https://images.meme-arsenal.com/13cfd890ab39b35a0df45fe57347c752.jpg)
 
 > Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
-f

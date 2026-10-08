@@ -2,10 +2,11 @@
 
 ## Навигация
 
-- [Сайт преподователя](https://gitflic.ru/project/rurewa/mfua)
+- [Репозиторий преподователя](https://gitflic.ru/project/rurewa/mfua)
 
 - [Основы редактирования текса](/Redactor.md)
 - [Markdown](/b.md)
 - [Mermaid](/Mermaid.md)
 - [Bash CLI](/bashcli.md)
 - [Bash Script](/BashScript.md)
+- [Git](/git.md)

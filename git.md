@@ -357,6 +357,8 @@ git merge anybranch
 - []()
 - []()
  
+``
+
 ### Мэмы по Git
  
 ![Logo](/img/mems.png)

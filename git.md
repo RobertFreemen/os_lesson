@@ -2,7 +2,7 @@
  
 git.md
  
-![Linus](/content/img/linus-torvalds-about-nvidia-june-2012.jpg)
+![Linus](/img/Linus.png)
  
 ### Зачем нужен Git?
  

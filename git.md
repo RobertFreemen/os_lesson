@@ -357,7 +357,6 @@ git merge anybranch
 - []()
 - []()
  
-``
 
 ### Мэмы по Git
  

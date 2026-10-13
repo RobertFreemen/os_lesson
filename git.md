@@ -2,7 +2,7 @@
  
 `git.md`
  
-![Linus](/img/Linus.png)
+![Linus](/content/img/linus-torvalds-about-nvidia-june-2012.jpg)
  
 ### Зачем нужен Git?
  
@@ -318,6 +318,10 @@ git push --set-upstream origin test
 ```shell
 git switch -
 ```
+или переключиться на указанную ветку
+```shell
+git switch master
+```
 Удалить локальную ветку
 ```shell
 git branch -d test
@@ -357,13 +361,16 @@ git merge anybranch
 - []()
 - []()
  
-
 ### Мэмы по Git
  
-![Logo](/img/mems.png)
+![Какой-то текст](/content/Git/img/1.jpg)
  
-![Какой-то текст](https://salferrarello.com/wp-content/uploads/2018/06/git-push-force-not-how-it-works.jpg)
-
- ![Какой-то текст](https://images.meme-arsenal.com/13cfd890ab39b35a0df45fe57347c752.jpg)
-
+![Какой-то текст](/content/Git/img/2.jpg)
+ 
+![Какой-то текст](/content/Git/img/3.jpg)
+ 
+![Какой-то текст](/content/Git/img/4.jpg)
+ 
+![Logo](/content/Git/img/67.jpeg)
+ 
 > Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!

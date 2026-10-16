@@ -10,3 +10,4 @@
 - [Bash CLI](/bashcli.md)
 - [Bash Script](/BashScript.md)
 - [Git](/git.md)
+- [Мой репозиторий с сайтом](https://github.com/RobertFreemen/my_personally_site)
